@@ -1,0 +1,9 @@
+{
+    "diagnostic.messageTarget": "float",
+    "diagnostic.checkCurrentLine": true,
+    "diagnostic.virtualText": true,
+    "diagnostic.virtualTextCurrentLineOnly": true,
+    "diagnostic.virtualTextPrefix": "<-",
+    "javascript.suggest.autoImports": true,
+    "php.suggest.autoImports": true
+}
